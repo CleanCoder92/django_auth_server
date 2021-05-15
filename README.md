@@ -27,10 +27,3 @@ DB_PASSWORD='password'
 
 DB_HOST='localhost'
 DB_PORT='5432'`
-
-- Open another command line window.
-
-  `workon theprojectname` or `source theprojectname/bin/activate` depending on if you are using virtualenvwrapper or just virtualenv.
-- Go to the `backend` directory.
-
-  `python manage.py runserver`
